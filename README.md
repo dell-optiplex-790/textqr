@@ -25,7 +25,7 @@ Example output:
 █████████████████████████████████████████
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
-Scanning this code will take you to the GitHub repository of this program.
+Scanning this code will take you to the GitHub repository of this project.
 ## Initial setup
 1. If you don't have NodeJS, install it from [here](https://nodejs.org/)
 2. Download this repository as ZIP (Code -> Download ZIP)
