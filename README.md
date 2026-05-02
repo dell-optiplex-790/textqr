@@ -1,7 +1,8 @@
 # TextQR
 ## About
 TextQR is a terminal-based QR code generator that uses ANSI block characters (and spaces) to create a QR code.
-Example output: ```
+Example output:
+```
 █████████████████████████████████████████
 █████████████████████████████████████████
 ████ ▄▄▄▄▄ ██▄▀▀ ██▀▄█ ▄  █▄██ ▄▄▄▄▄ ████
